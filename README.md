@@ -1,0 +1,2 @@
+# smthng-smpl
+just learning
